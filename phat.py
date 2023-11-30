@@ -1,2 +1,6 @@
 print ("Hi")
 print ("แก้ไข Code ใน Github")
+print ("ดอกทอง")
+print ("ดอกทอง")
+print ("ดอกทอง")
+print ("ดอกทอง")
